@@ -49,13 +49,13 @@
   * git pull
 
 * Show the history of a git repository
-  * git log
+  * git diff
 
 * Show a log of your commit history
   * git log
 
 * Roll back to a specific commit in history
-  * < your answer here >
+  * git checkout <SHA1>
 
 #### You should understand the following:
 
