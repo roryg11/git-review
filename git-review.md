@@ -40,7 +40,7 @@
   * git push
 
 * Add a remote to your repository
-  * < your answer here >
+  * git remote add origin url
 
 * Change an existing remote
   * < your answer here >
