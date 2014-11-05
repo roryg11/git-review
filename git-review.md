@@ -46,10 +46,10 @@
   * git remote set-url origin URL
 
 * Pull changes from a shared github repo to your local repo
-  * git pull 
+  * git pull
 
 * Show the history of a git repository
-  * < your answer here >
+  * git log
 
 * Show a log of your commit history
   * < your answer here >
