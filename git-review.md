@@ -22,10 +22,10 @@
   * git init
 
 * Display the status of a repository
-  * git status
+  * git remote -v
 
 * Identify if files are staged or not
-  * < your answer here >
+  * git status
 
 * Add a file to the staging area
   * < your answer here >
